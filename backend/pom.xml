@@ -14,7 +14,7 @@
     <name>dsmovie</name>
     <description>dsmovie</description>
     <properties>
-        <java.version>17</java.version>
+        <!-- <java.version>17</java.version> -->
     </properties>
     <dependencies>
         <dependency>
